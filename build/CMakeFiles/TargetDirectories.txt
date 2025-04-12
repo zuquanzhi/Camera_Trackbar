@@ -1,0 +1,3 @@
+/home/test/Programs/nano_RMVision/build/CMakeFiles/simple_camera.dir
+/home/test/Programs/nano_RMVision/build/CMakeFiles/edit_cache.dir
+/home/test/Programs/nano_RMVision/build/CMakeFiles/rebuild_cache.dir

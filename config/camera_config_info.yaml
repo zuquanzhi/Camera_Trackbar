@@ -1,0 +1,26 @@
+# 相机配置文件 - 保存于 2025-04-12 19:01:31
+
+# 相机基本状态
+camera_status: 1
+
+# 分辨率设置
+resolution_width: 1280
+resolution_height: 1024
+
+# 曝光控制
+auto_exposure: 0             # 自动曝光 (1=开启, 0=关闭)
+exposure_time: 10542.0       # 曝光时间 (微秒)
+analog_gain: 0.0             # 模拟增益 (1-16)
+brightness: 271                # 目标亮度 (0-1000)
+
+# 图像处理参数
+gamma: 136                   # Gamma值 (0-350)
+contrast: 96                  # 对比度 (-50-100)
+saturation: 108               # 饱和度 (0-200)
+sharpness: 20                # 锐度 (0-100)
+
+# 白平衡参数
+auto_white_balance: 0        # 自动白平衡 (1=开启, 0=关闭)
+r_gain: 101                   # 红色增益 (0-400)
+g_gain: 102                   # 绿色增益 (0-400)
+b_gain: 105                  # 蓝色增益 (0-400)
